@@ -16,4 +16,8 @@ Runtime: senorcoder/aws-lambda-env:python3.9
 Build  : senorcoder/aws-lambda-env:python3.9_build
 ```
 
+## Credits
+Reference: https://github.com/lambci/docker-lambda
+
+
 
